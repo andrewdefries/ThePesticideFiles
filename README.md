@@ -1,5 +1,24 @@
-# ThePesticideFiles
-Corpus of bound books on "Pesticides"
+# Background
+The term "pesticide" is widely used to denote a compound or substance applied in a situation to abate a "pest" or unwanted biological organism. Pesticides are used in agriculture, on our lawns, and in our homes. What exactly are pesticides and what is the molecular basis for their action, toxicity, off target effects, and environmental persistance? The answer to this question is scattered in online journals and locked in rare bound books.
+
+# Motivation
+This project was inspired by the Edible schoolyard lecture series in Berkely where lively discussion is held regarding the state of the current food system. I found these lectures to be quite comprehensive but lacking detailed elaboration of pesticide classes, uses, and pervasive effects. Some details regarding the atrazine class, neonicotinoids, and organophosphates were introduced but not covered in depth.
+
+The term pesticide, although descriptive, was often used as an umbrella term. The pitfall for the student is that a lack of coverage on a pesticide or pesticide class will likely lead to a less succinct and accurate criticism or debate. Hand waving will not be sufficient to navigate this topic as new agrochemicals enter the market and enter the food system with dwindling scrutiny.
+
+Despite a wealth of literature available describing pesticides from different perspectives there is a significant barrier to entry for a layperson with no knowledge in chemistry and biochemistry. The goal of this project is to lower that entry barrier through aggregation of information and multimodal delivery of content to contextualize links and trends.
+
+# Project goals
+1. Digitize a collection of books that contain detailed indexes and comprehensive reviews of pesticides
+2. Use Optical Character Recognition (OCR) technology to make these books full text searchable
+3. Join disparate data sets within the bound book collection
+4. Search the entire open access journal collection of PubMedCentral (Over 2 million articles) for papers describing use and effects of pesticides.
+5. Join the book collection data set with relevant PubMedCentral articles to cross validate claims
+6. Choose representative pesticide classes and curated data sets to write a collection of fictional short stories with citations to real evidence. These short stories will be called "The Pesticide Files".  
+
+
+# State of the Corpus
+A number of books have been digitized and aggregated into a corpus or collection. Take a look below for the titles that have been included.
 
 Title | Author(s) |Details
 ------|-----------|-------
