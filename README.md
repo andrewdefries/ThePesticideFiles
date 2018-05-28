@@ -22,8 +22,8 @@ Despite a wealth of literature available describing pesticides from different pe
 # State of the Corpus
 A number of books have been digitized and aggregated into a corpus or collection. Take a look below for the titles that have been included.
 
-Title | Author(s) |Details |[//]: Document |
-------|-----------|--------|[//]:----------|
+Title | Author(s) |Details | Document |
+------|-----------|--------|----------|
 [50 Years of Phytochemistry Research: Volume 43 (Recent Advances in Phytochemistry)](http://www.amazon.com/50-Years-Phytochemistry-Research-Advances/dp/3319005804/ref=sr_1_1?ie=UTF8&qid=1434945513&sr=8-1&keywords=50+years+of+phytochemistry&pebp=1434945518367&perid=1GN5P34X0WZ6TKNMH6QM) | David Gang | Index
 [Agrochemical Discovery: Insect, Weed and Fungal Control (ACS Symposium Series)](http://www.amazon.com/Agrochemical-Discovery-Insect-Control-Symposium/dp/0841237247/ref=sr_1_1?ie=UTF8&qid=1434946242&sr=8-1&keywords=agrochemical+discovery&pebp=1434946254778&perid=0CAB99BNKB0WJ6W7TGVT) |  Don R. Baker, Norihari Ken Umetsu | Industry review
 [Agrochemical Resistance: Extent, Mechanism, and Detection (ACS Symposium Series)](http://www.amazon.com/Agrochemical-Resistance-Mechanism-Detection-Symposium/dp/0841237239/ref=sr_1_1?ie=UTF8&qid=1434946489&sr=8-1&keywords=agrochemical+resistance&pebp=1434946575532&perid=1J8NFNJRADCVTG2WGGB9) | J. Marshall Clark (Editor), Isamu Yamaguchi | Review of molecular basis of resistance to agrochemicals
